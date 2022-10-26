@@ -62,3 +62,4 @@ driver.find_element_by_xpath('鼠标点击的xpath').click()
 # tree = etree.XML(resp.text, parser=parser)
 # all_list = tree.xpath('//*[@id="root"]/div[2]/div/div[2]/div/div[6]/div/section[2]/div[2]/ul/li')
 # print(len(all_list))
+
