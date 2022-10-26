@@ -25,7 +25,7 @@ driver.get(url)
 考虑到网页打开的速度取决于每个人的电脑和网速，
 使用time库sleep()方法，让程序睡眠5秒
 '''
-# time.sleep(5)
+time.sleep(5)
 '''
 调用selenium库中的find_element_by_xpath()方法定位搜索框，
 同时使用send_keys()方法在其中输入信息
