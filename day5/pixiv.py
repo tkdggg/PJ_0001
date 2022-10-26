@@ -38,7 +38,7 @@ time.sleep(5)
 调用selenium库中的find_element_by_xpath()方法定位搜索按钮，
 同时使用click()方法对按钮进行点击
 '''
-driver.find_element_by_xpath('鼠标点击的xpath').click()
+# driver.find_element_by_xpath('鼠标点击的xpath').click()
 
 
 
